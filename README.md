@@ -9,7 +9,7 @@ $\ node ./javascript/{algorithm-name}/index.js
 ```
 
 # C Examples
-Use GCC to execute ***.c files
+Use GCC to compile ***.c files
 
 ```
 $\ gcc ./c/{algorithm-name}.c -o {algorithm-name}
