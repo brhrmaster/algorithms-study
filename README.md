@@ -12,9 +12,9 @@ $\ node ./javascript/{algorithm-name}/index.js
 Use GCC to execute ***.c files
 
 ```
-$\ gcc ./c/{algorithm-name}/file.c
+$\ gcc ./c/{algorithm-name}.c -o {algorithm-name}
 ```
 then execute program
 ```
-$\ ./c/{algorithm-name}/file.out
+$\ ./c/{algorithm-name}
 ```
