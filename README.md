@@ -5,5 +5,16 @@ This is a personal straight forward study strategy to get confortable with data 
 Use NodeJS to execute index.js files
 
 ```
-$> node ./javascript/{algorithm-name}/index.js
+$\ node ./javascript/{algorithm-name}/index.js
+```
+
+# C Examples
+Use GCC to execute ***.c files
+
+```
+$\ gcc ./c/{algorithm-name}/file.c
+```
+then execute program
+```
+$\ ./c/{algorithm-name}/file.out
 ```
